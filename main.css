@@ -52,4 +52,11 @@ button[material] span.ripple {
     height: 500px;
     opacity: 0;
   }
+}
+.bottom-bar {
+  position: fixed !important;
+  bottom: 0 !important;
+  width: 100vw !important;
+  height: 40px !important;
+  background-color: var(--blue-7) !important;
 }/*# sourceMappingURL=de.css.map */
