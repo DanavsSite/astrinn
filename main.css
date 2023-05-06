@@ -58,5 +58,13 @@ button[material] span.ripple {
   bottom: 0 !important;
   width: 100% !important;
   height: 40px;
-  background-color: var(--blue-7) !important;
+  background-color: var(--blue-7);
+}
+
+.top-bar {
+  position: fixed !important;
+  top: 0 !important;
+  width: 100% !important;
+  height: 40px;
+  background-color: var(--blue-7);
 }/*# sourceMappingURL=de.css.map */
